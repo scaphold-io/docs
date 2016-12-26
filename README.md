@@ -1,3 +1,11 @@
+# Official [Scaphold.io](https://scaphold.io) API Documentation
+
+Welcome to the official API documentation for Scaphold.io, GraphQL backend-as-a-service. We're happy you're here!
+
+Feel free to peruse the source code, or check out the [LIVE documentation page](https://scaphold.io/docs).
+
+If you'd like to make an edit to any of these pages, please [submit a pull request](https://github.com/scaphold-io/docs/pulls) and we'll make the update as soon as possible.
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/lord/img/master/logo-slate.png" alt="Slate: API Documentation Generator" width="226">
   <br>
