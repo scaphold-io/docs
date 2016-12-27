@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://assets.scaphold.io/scaphold-logo.png" alt="Scaphold" width="226" />
+  <img src="https://assets.scaphold.io/scaphold-logo.png" alt="Scaphold" width="113" />
   <br />
   <a href="https://travis-ci.org/lord/slate"><img src="https://travis-ci.org/lord/slate.svg?branch=master" alt="Build Status"></a>
 </p>
@@ -47,6 +47,11 @@ Now that the Docs are all set up your machine, you'll probably want to learn mor
 
 If you'd prefer to use Docker, instructions are available [in the wiki](https://github.com/lord/slate/wiki/Docker).
 
+Need Help? Found a bug?
+--------------------
+
+[Submit an issue](https://github.com/scaphold-io/scaphold-issues) to the Scaphold Github if you need any help. And, of course, feel free to submit pull requests with bug fixes or changes.
+
 Other Companies Using Slate
 ---------------------------------
 
@@ -62,30 +67,3 @@ Other Companies Using Slate
 * [Fidor Bank](http://docs.fidor.de/)
 
 You can view more in [the list on the wiki](https://github.com/lord/slate/wiki/Slate-in-the-Wild).
-
-Need Help? Found a bug?
---------------------
-
-[Submit an issue](https://github.com/lord/slate/issues) to the Slate Github if you need any help. And, of course, feel free to submit pull requests with bug fixes or changes.
-
-Contributors
---------------------
-
-Slate was built by [Robert Lord](https://lord.io) while interning at [TripIt](https://www.tripit.com/).
-
-Thanks to the following people who have submitted major pull requests:
-
-- [@chrissrogers](https://github.com/chrissrogers)
-- [@bootstraponline](https://github.com/bootstraponline)
-- [@realityking](https://github.com/realityking)
-- [@cvkef](https://github.com/cvkef)
-
-Also, thanks to [Sauce Labs](http://saucelabs.com) for helping sponsor the project.
-
-Special Thanks
---------------------
-- [Middleman](https://github.com/middleman/middleman)
-- [jquery.tocify.js](https://github.com/gfranko/jquery.tocify.js)
-- [middleman-syntax](https://github.com/middleman/middleman-syntax)
-- [middleman-gh-pages](https://github.com/edgecase/middleman-gh-pages)
-- [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
